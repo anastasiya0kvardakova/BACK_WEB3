@@ -64,7 +64,7 @@
                 <div class="block-title">Суперспособности</div>
                 <select class="form-select form-select-lg mb-2" name="select[]" multiple>
                     <option value="inf" selected>Локи(бессмертие)</option>
-                    <option value="through">Вижн(сковзь стены)</option>
+                    <option value="through">Вижн(сквозь стены)</option>
                     <option value="levitation">Доктор Стрэндж(левитация)</option>
                 </select>
             </div>
